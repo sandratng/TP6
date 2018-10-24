@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1539299571 source:c:\users\sandr\desktop\maillage_exo\coords.cpp
+	"coords.h"
+	<iostream>
+
+1539281993 c:\users\sandr\desktop\maillage_exo\coords.h
+
+1539803026 source:c:\users\sandr\desktop\maillage_exo\couleur.cpp
+	"couleur.h"
+	"svgfile.h"
+	"util.h"
+	<iostream>
+
+1539294001 c:\users\sandr\desktop\maillage_exo\couleur.h
+	<string>
+	<cstdint>
+
+1539294001 c:\users\sandr\desktop\maillage_exo\svgfile.h
+	<string>
+	<fstream>
+	<set>
+
+1539290149 c:\users\sandr\desktop\maillage_exo\util.h
+	<string>
+
+1539294740 source:c:\users\sandr\desktop\maillage_exo\svgfile.cpp
+	<iostream>
+	<sstream>
+
+1539291681 source:c:\users\sandr\desktop\maillage_exo\util.cpp
+	"util.h"
+	<random>
+	<ctime>
+	<iostream>
+	<streambuf>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<algorithm>
+	<cstring>
+	<iostream>
+	<thread>
+	"util.h"
+	<windows.h>
+
+1540367674 source:c:\users\sandr\desktop\maillage_exo\main.cpp
+	"couleur.h"
+	"util.h"
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+
+1540369192 source:c:\users\sandr\desktop\maillage_exo\triangle.cpp
+	"triangle.h"
+	<iostream>
+
+1540369192 c:\users\sandr\desktop\maillage_exo\triangle.h
+
+1540369452 source:c:\users\sandr\desktop\maillage_exo\sommet.cpp
+	"sommet.h"
+	"coords.h"
+	<iostream>
+
+1540369414 c:\users\sandr\desktop\maillage_exo\sommet.h
+	"coords.h"
+
